@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/drawable-v24/ic_baseline_movie_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/drawable/gradient.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.19453125" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/activity_detail.xml" value="0.259375" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/activity_kosong.xml" value="0.1" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/activity_main.xml" value="0.2453125" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/content_scrolling.xml" value="0.259375" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/fragment_favorite.xml" value="0.259375" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/fragment_movie.xml" value="0.259375" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/fragment_tv_show.xml" value="0.259375" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/item_movie_list.xml" value="0.5179856115107914" />
+        <entry key="..\:/Users/Handoyo/AndroidStudioProjects/Movie_Retrofit/app/src/main/res/layout/splash_activity.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
